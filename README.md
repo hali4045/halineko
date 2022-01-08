@@ -1,5 +1,5 @@
 # halineko
-a bakeneko 60 with otd 360 corsa + lz-re style side profile, cherry lip, internal brass weight, and compatibility with common pcbs
+a bakeneko 60 with otd 360 corsa + lz-re style side profile, cherry lip, internal brass weight, limited plate for better feel/looks/sound, and compatibility with common pcbs
 
 5.5 deg typing angle, 17.5 mm front face height without lip
 
