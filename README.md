@@ -19,6 +19,8 @@ disclaimer: i have not prototyped this and there are possibilities that it will 
 | Weight Screws        | 2 | [McMaster-Carr](https://www.mcmaster.com/92125A125/)       | N/A                                                            |                   |
 | 8 mm Bumpons         | 4 | [McMaster-Carr](https://www.mcmaster.com/95495K65/)        | [Amazon US](https://www.amazon.com/gp/product/B01ACPT2LU)      | Anything goes tbh |
 
+additionally requires one o-ring wrapped around the pcb and plate assembly to be mounted. here are mcmaster links for [50a](https://www.mcmaster.com/1173N502/), [70a](https://www.mcmaster.com/9452K362/), and [90a](https://www.mcmaster.com/5308T317/). if mcmaster doesn't work for you, then you need a 1/8" width o ring with 262 dash number in your hardness of choice. 
+
 requires a [unified daughterboard](https://github.com/ai03-2725/Unified-Daughterboard). compatible pcbs include plain60-flex, had60, h60, nop60, and anything that uses unikorn posts probably
 
 thanks to elaine for legalizing this keyboard
