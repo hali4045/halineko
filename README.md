@@ -21,4 +21,6 @@ disclaimer: i have not prototyped this and there are possibilities that it will 
 
 requires a [unified daughterboard](https://github.com/ai03-2725/Unified-Daughterboard). compatible pcbs include plain60-flex, had60, h60, nop60, and anything that uses unikorn posts probably
 
+thanks to elaine for legalizing this keyboard
+
 feel free to contact me @hali#4045 on discord if you have any questions, concerns, or requests
