@@ -1,15 +1,15 @@
 # halineko
 a bakeneko 60 with otd 360 corsa + lz-re style side profile, cherry lip, internal brass weight, limited plate for better feel/looks/sound, and compatibility with common pcbs
 
-5.5 deg typing angle, 17.5 mm front face height without lip
+5.5 deg typing angle, 17.9 mm front face height without lip
 
-![fromt!!1!11!](https://i.imgur.com/Fbk9M7P.png)
-![bakck!!1!!!1](https://i.imgur.com/zyCSm62.png)
-![port!!!1!11!](https://i.imgur.com/bN9OZ6m.png)
-![butt!!1!!1!1](https://i.imgur.com/eCLi7VJ.png)
-![tompdown!1!!](https://i.imgur.com/a2mz8xV.png)
-![imtrnal!!11!](https://i.imgur.com/pyLzrlj.png)
-![plamte!1!11!](https://i.imgur.com/SncZ0rp.png)
+![fromt!!1!11!](https://i.imgur.com/OFoK4B0.png)
+![bakck!!1!!!1](https://i.imgur.com/6fhDFJt.png)
+![port!!!1!11!](https://i.imgur.com/i4k8r9Q.png)
+![butt!!1!!1!1](https://i.imgur.com/c8agdcO.png)
+![tompdown!1!!](https://i.imgur.com/cmk54tM.png)
+![imtrnal!!11!](https://i.imgur.com/iBUQ94N.png)
+![plamte!1!11!](https://i.imgur.com/78e9vz0.png)
 
 disclaimer: i have not prototyped this and there are possibilities that it will not work. i am not responsible for replacing faulty products
 
