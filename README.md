@@ -11,6 +11,10 @@ a bakeneko 60 with otd 360 corsa + lz-re style side profile, cherry lip, interna
 ![imtrnal!!11!](https://i.imgur.com/iBUQ94N.png)
 ![plamte!1!11!](https://i.imgur.com/78e9vz0.png)
 
+there's also a version without a weight for those who want to have this with minimal cost 
+
+![nakey!1!!!1!](https://i.imgur.com/5opQ5iq.png)
+
 disclaimer: i have not prototyped this and there are possibilities that it will not work. i am not responsible for replacing faulty products
 
 | Part | Quantity per Board | Link 1 | Link 2 | Notes |
